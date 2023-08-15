@@ -82,8 +82,8 @@ local keyWindow = Rayfield:CreateWindow({
             LoadMain()
           end
         })
-    end
-end
+      end
+  end
 
 if isFolder("/4Tv95jhwn82Key") then
   if isfile("/4Tv95jhwn82Key/Key.txt", "") then
